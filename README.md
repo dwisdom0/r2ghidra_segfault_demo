@@ -1,4 +1,4 @@
-# Demo for a segault in r2ghidra
+# Demo for a segfault in r2ghidra
 
 ```
 $ docker pull dwisdom0/r2ghidra_segfault:latest
