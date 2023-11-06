@@ -24,6 +24,5 @@ INFO: Use -AA or aaaa to perform additional experimental analysis
 [0x00005150]> s fcn.0001b020
 [0x0001b020]> pdg
 Segmentation fault
-# exit
 ```
 
